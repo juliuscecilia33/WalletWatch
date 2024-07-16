@@ -1,0 +1,15 @@
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/bin/Debug/net8.0/WalletWatch
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/bin/Debug/net8.0/WalletWatch.deps.json
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/bin/Debug/net8.0/WalletWatch.runtimeconfig.json
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/bin/Debug/net8.0/WalletWatch.dll
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/bin/Debug/net8.0/WalletWatch.pdb
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.AssemblyInfoInputs.cache
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.AssemblyInfo.cs
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.csproj.CoreCompileInputs.cache
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.sourcelink.json
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.dll
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/refint/WalletWatch.dll
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.pdb
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/WalletWatch.genruntimeconfig.cache
+/Users/juliuscecilia/Desktop/projects2024/WalletWatch/obj/Debug/net8.0/ref/WalletWatch.dll
