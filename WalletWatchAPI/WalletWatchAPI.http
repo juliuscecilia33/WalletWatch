@@ -1,6 +1,0 @@
-@WalletWatchAPI_HostAddress = http://localhost:5167
-
-GET {{WalletWatchAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
